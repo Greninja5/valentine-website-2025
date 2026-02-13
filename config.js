@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You really like me that much?? 🥰🚀🥺",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
+        extreme: "WOOOOW You really like me that much?? 💙🚀🥺",  // Shows when they go past 5000%
+        high: "Yess you're getting there, just a little moree 🌝💝",              // Shows when they go past 1000%
         normal: "That's it?! I'm sure you have a heart bigger than that 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Woww, su naseeb maraaa?! Chosen by you?! I must be super lucky!💙🥰💓",
-        message: "Now come get your gift, a big warm PROPER hug and a huge air kiss! MWAH!",
-        emojis: "🎁💖🤗💝💋❤️💕🥰😘"  // These will bounce around
+        message: "Now come get your gift, your cup of chai 😏☕, big warm PROPER hug and a huge air kiss! MWAH💋!",
+        emojis: "🎁💖🤗💙🌹❤️💕🥰😘"  // These will bounce around
     },
 
     // Color scheme for the website
