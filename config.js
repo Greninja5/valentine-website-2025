@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Woww, su naseeb maraaa?! Chosen by you?! I must be super lucky!💙🥰💓",
         message: "Now come get your gift, your cup of chai 😏☕, big warm PROPER hug and a huge air kiss! MWAH💋!",
-        emojis: "🎁💖🤗💙🌹❤️💕🥰😘"  // These will bounce around
+        emojis: "🎁💕🤗💙🌹❤️😘"  // These will bounce around
     },
 
     // Color scheme for the website
