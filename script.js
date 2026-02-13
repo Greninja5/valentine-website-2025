@@ -8,7 +8,7 @@ function validateConfig() {
     // Check required fields
     if (!config.valentineName) {
         warnings.push("Valentine's name is not set! Using default.");
-        config.valentineName = "My Love";
+        config.valentineName = "My Pea";
     }
 
     // Validate colors
@@ -129,7 +129,7 @@ function moveButton(button) {
     button.style.top = y + 'px';
 }
 
-// Love meter functionality
+//  meter functionality
 const loveMeter = document.getElementById('loveMeter');
 const loveValue = document.getElementById('loveValue');
 const extraLove = document.getElementById('extraLove');
